@@ -1,0 +1,32 @@
+<style>
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Open Sans", fantasy;
+  background-color: #E0E0FF		;
+
+}
+div{
+	font-size: 40px;
+	 width: 70%;
+	color: #550094		;
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;
+}
+h2{
+	color: #7878FF		;
+	text-align:center;
+}
+img{
+	display: block;
+	width: 30%;
+	height: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+
+</style>
